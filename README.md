@@ -48,9 +48,11 @@ The script will fetch the data (called from the lists and dictionaries) and run 
 This data will give the information required to run the script to print the results: per county and/or per candidate, what changes is the variables we define and the calculations we decide to print, which can be easily tailored as per the results we need to populate.
 
 Results per Candidate:
+
 ![Results per Candidate](/Resources/code_image_3.png)
 
 vs Results per Candidate and County:
+
 ![Results per Candidate and County](/Resources/code_image_2.png)
 
 The results from this case scenario, where the calculation was made to see the Winning candidate and county, is shown like follows:
